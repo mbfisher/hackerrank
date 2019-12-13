@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountTriplets",
+            "request": "launch",
+            "mainClass": "CountTriplets",
+            "projectName": "hackerrank_7b2bc3c2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SherlockAndAnagrams",
+            "request": "launch",
+            "mainClass": "SherlockAndAnagrams",
+            "projectName": "hackerrank_7b2bc3c2"
+        }
+    ]
+}
